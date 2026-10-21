@@ -1,17 +1,17 @@
 <div align="center">
 
 # Hi, I'm Muhammad Talha 👋
-### Software Engineering Student · Full-Stack & Frontend Developer · AI Automation Builder
+### Software Engineering Student · Full-Stack & Frontend Engineer · Autonomous AI Builder
 
 <p align="center">
-  Building high-performance, accessible web applications and autonomous AI agents with <strong>Astro</strong>, <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>Python</strong>.
+  Building high-performance, accessible web architectures and autonomous intelligence systems with <strong>Astro</strong>, <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>Python</strong>.
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-talha--portfolio.vercel.app-D8FA3E?style=for-the-badge&logo=vercel&logoColor=14150F)](https://talha-portfolio-gules.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mtlabs1122-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtlabs1122/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-talha--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://talha-portfolio-gules.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Talha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtlabs1122/)
 [![GitHub](https://img.shields.io/badge/GitHub-MTLab1122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTLab1122)
 [![Email](https://img.shields.io/badge/Email-muhammadtalhapro1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtalhapro1@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Charsadda%2C%20Pakistan-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#-about-me)
+[![Location](https://img.shields.io/badge/Location-Charsadda%2C_Pakistan-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](#-about-me)
 
 </div>
 
@@ -20,15 +20,15 @@
 ## ◈ About Me
 
 - 📍 Based in **Charsadda, Khyber Pakhtunkhwa, Pakistan**.
-- 🎓 Studying **Software Engineering**, combining strong computer science fundamentals with modern web and agentic software development.
-- ⚡ **Full-Stack & Frontend Engineering**: Specializing in static-first, zero-JS web architectures with **Astro**, component design systems with **Tailwind CSS v4**, and type-safe applications with **TypeScript & Next.js**.
-- 🤖 **Autonomous AI Systems**: Designing self-operating intelligence agents using **Python**, **Gemini API**, and **GitHub Actions** for automated web crawling, multi-format reporting, and scheduled dispatches.
-- 🎯 **Community Impact**: Built the autonomous **KP & Charsadda Daily Scholarship Intelligence Agent**, helping regional students discover verified higher-education funding opportunities.
-- 💼 Open to **remote engineering roles**, **freelance contracts**, and **collaborative open-source projects**.
+- 🎓 Studying **Software Engineering**, combining computer science rigor with modern web and agentic software architecture.
+- ⚡ **Frontend & Modern Web**: Specializing in static-first, zero-runtime-overhead web systems with **Astro**, component design systems with **Tailwind CSS v4**, and type-safe frontends with **TypeScript** and **Next.js**.
+- 🤖 **Autonomous AI Systems**: Engineering automated intelligence workflows using **Python**, **Gemini API**, and **GitHub Actions** for web crawling, dynamic data synthesis, multi-format reporting, and scheduled dispatches.
+- 🎯 **Community Impact**: Creator of the **KP & Charsadda Daily Scholarship Intelligence Agent**, an autonomous crawler delivering verified regional higher-education funding opportunities daily to local students.
+- 💼 Open to **remote software engineering roles**, **frontend/full-stack internships**, and **freelance engineering collaborations**.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Ecosystem
 
 <div align="center">
 
@@ -41,21 +41,21 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frontend Frameworks & Libraries
+### Frontend Frameworks & UI Architecture
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
-### Backend, Databases & APIs
+### Backend, Agentic AI & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab_PDF-306998?style=flat-square&logo=python&logoColor=white)
 
-### Tools, Cloud & Automation
+### DevOps, CI/CD & Developer Tooling
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -67,20 +67,20 @@
 
 ---
 
-## 📌 Featured Flagship Projects
+## 📌 Featured Engineering Projects
 
-| Project | Description | Tech Stack | Links |
+| Project | Description | Core Stack | Live Links |
 | :--- | :--- | :--- | :--- |
-| **🎓 KP & Charsadda Scholarship Agent** | Autonomous daily intelligence agent crawling, verifying, and reporting regional university and provincial scholarships for KP students via daily GitHub Actions sweeps. Delivers interactive HTML dashboards, vector PDFs, Excel/CSV datasets, and email alerts. | `Python` `Web Scraping` `GitHub Actions` `Resend API` `ReportLab` | [Repository](https://github.com/MTLab1122/scholorships_agent) |
-| **⚡ Daily AI & Tech Briefing Agent** | Self-operating 24h intelligence briefing agent that sweeps global AI research, trending GitHub tools, and industry breakthroughs, synthesizing executive briefs via Gemini API and compiling ReportLab vector PDFs. | `Python` `Gemini API` `ReportLab` `Automation` `GitHub Actions` | [Repository](https://github.com/MTLab1122/autoreport_agent) |
-| **🌐 Personal Developer Portfolio** | Ultra-fast, responsive developer portfolio engineered with Astro's zero-JS architecture, Tailwind CSS v4 design tokens, strict TypeScript, and GSAP micro-interactions. Fully accessible and SEO-optimized. | `Astro` `Tailwind CSS v4` `TypeScript` `GSAP` `Vercel` | [Live Site](https://talha-portfolio-gules.vercel.app/) · [Repository](https://github.com/MTLab1122/portfolio) |
-| **🏢 Reachify Agency Platform** | High-conversion agency web platform for Reachify ("Reach to the Unreachable"), featuring modern navigation, case study frameworks, JSON-LD structured data, and sub-second load times. | `Astro` `TypeScript` `Tailwind CSS` `SEO Architecture` | [Repository](https://github.com/MTLab1122/reachify) |
-| **💻 Laptosphere Storefront** | Content-driven e-commerce platform for Japanese refurbished laptops and computer gear in Pakistan, with Astro Content Collections, GitHub OAuth admin dashboard, and Vercel edge deployment. | `Astro 5+` `TypeScript` `Tailwind CSS v4` `Content Collections` | [Repository](https://github.com/MTLab1122/laptosphere) |
-| **👾 Pac-Man Arcade Game** | Full-featured retro arcade recreation with modern web tech, complete with 4 autonomous ghost AI behavior algorithms (chaser, ambusher, random, defensive), power pellets, score system, and responsive SVG graphics. | `Next.js 14` `TypeScript` `Tailwind CSS` `React Hooks` | [Repository](https://github.com/MTLab1122/Pac_Man) |
+| **🎓 KP & Charsadda Scholarship Agent** | Autonomous daily intelligence agent crawling, verifying, and reporting regional university and provincial scholarships for KP students via daily GitHub Actions automation. Delivers multi-format reports (HTML dashboards, vector PDFs, Excel/CSV datasets, and email digests). | `Python` `Web Scraping` `GitHub Actions` `Resend API` `ReportLab` | [📂 Repo](https://github.com/MTLab1122/scholorships_agent) |
+| **⚡ Autonomous AI & Tech Intelligence Briefing** | Self-operating 24-hour intelligence briefing agent executing daily global sweeps across frontier AI research, trending GitHub tools, and industry breakthroughs. Synthesizes briefs via Gemini API and compiles ReportLab vector PDFs. | `Python` `Gemini API` `ReportLab` `Automation` `GitHub Actions` | [📂 Repo](https://github.com/MTLab1122/autoreport_agent) |
+| **🌐 Personal Developer Portfolio** | Ultra-fast developer portfolio engineered with Astro's zero-JS architecture, Tailwind CSS v4 design tokens, strict TypeScript, and GSAP micro-interactions. Fully responsive, accessible, and SEO-optimized. | `Astro` `Tailwind CSS v4` `TypeScript` `GSAP` `Vercel` | [🚀 Live Demo](https://talha-portfolio-gules.vercel.app/) · [📂 Repo](https://github.com/MTLab1122/portfolio) |
+| **👾 Pac-Man Modern Arcade Recreation** | Full-featured retro arcade recreation with modern web tech, complete with 4 autonomous ghost AI behavior patterns (chaser, ambusher, random, defensive), power pellets, score system, and responsive SVG graphics. | `Next.js 14` `TypeScript` `React Hooks` `Tailwind CSS` | [🚀 Play Online](https://mtlab1122.github.io/Pac_Man/) · [📂 Repo](https://github.com/MTLab1122/Pac_Man) |
+| **🏛️ University Learning Management System (LMS)** | Full-stack university-grade LMS covering course registration, conflict-aware scheduling, prerequisite validation, assignment submissions, fee management, and complete SRS documentation. | `Node.js` `Express.js` `JavaScript` `SRS Architecture` | [📂 Repo](https://github.com/MTLab1122/Software_Requirement_Engineering_Project) |
+| **🧩 AuraNav - Responsive & Accessible Navigation** | Production-grade accessible navigation bar system built with Astro and Tailwind CSS v4, featuring animated SVG drawer states, strict keyboard navigation, and zero layout shift. | `Astro` `Tailwind CSS v4` `TypeScript` `WCAG 2.1` | [📂 Repo](https://github.com/MTLab1122/aptura_week1_task1) |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MTLab1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Talha's GitHub Stats" height="175" />
@@ -93,24 +93,24 @@
 
 ---
 
-## 🚀 Engineering Principles
+## 🚀 Engineering Philosophy & Practices
 
-- **Speed First**: Lean codebases, zero-JS by default where appropriate (Astro), minimal bundle weights, and instant page transitions.
-- **Type Safety Everywhere**: Strict TypeScript across interfaces, data models, and API responses to eliminate runtime defects before deployment.
-- **Automated Workflows**: Automating repetitive data collection, validation, and testing using GitHub Actions, scheduled cron jobs, and Python agents.
-- **Polished Visuals & Accessibility**: Semantic HTML5 elements, explicit ARIA tags, fluid responsive breakpoints, and thoughtful micro-interactions.
+- **Zero-Overhead Performance**: Minimizing client-side JavaScript execution by defaulting to static-first architectures (Astro) and native CSS features.
+- **Strict Type Safety**: Enforcing comprehensive TypeScript interfaces across frontends, data schemas, and API contracts to prevent runtime failures.
+- **Autonomous Systems**: Designing deterministic, scheduled automation workflows that collect, validate, and report real-world data without human intervention.
+- **Accessible Design Systems**: Building WCAG 2.1-compliant, keyboard-navigable components with semantic HTML and thoughtful UX states.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect & Collaborate
 
-I am actively open to discussing software engineering opportunities, frontend architecture, and autonomous AI automation.
+I am actively open to discussing software engineering opportunities, autonomous agent pipelines, and high-performance frontend architecture.
 
 - 💼 **LinkedIn**: [linkedin.com/in/mtlabs1122](https://www.linkedin.com/in/mtlabs1122/)
 - 🌐 **Portfolio**: [talha-portfolio-gules.vercel.app](https://talha-portfolio-gules.vercel.app/)
 - 📧 **Direct Email**: [muhammadtalhapro1@gmail.com](mailto:muhammadtalhapro1@gmail.com)
-- 🐙 **GitHub**: [@MTLab1122](https://github.com/MTLab1122)
+- 🐙 **GitHub Profile**: [@MTLab1122](https://github.com/MTLab1122)
 
 <div align="center">
-  <sub>Designed & engineered with precision by <strong>Muhammad Talha</strong>.</sub>
+  <sub>Engineered with precision by <strong>Muhammad Talha</strong> · Built for performance, clarity, and impact.</sub>
 </div>
