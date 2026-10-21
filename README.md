@@ -1,26 +1,26 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,35:1E1B4B,70:312E81,100:0284C7&height=230&section=header&text=Muhammad%20Talha&fontSize=44&fontAlignY=36&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Agentic%20AI%20Builder&descAlignY=58&descSize=18" width="100%" alt="Muhammad Talha Header" />
 
-# Hi, I'm Muhammad Talha 👋
-### Software Engineering Student · Full-Stack & Frontend Engineer · Autonomous AI Builder
+  <a href="https://github.com/MTLab1122">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Software+Engineering+Student+%F0%9F%8E%93;Modern+Web+Architecture+(Astro+%E2%80%A2+Next.js+%E2%80%A2+TypeScript)+%E2%9A%A1;Autonomous+AI+Agents+(Python+%E2%80%A2+Gemini+%E2%80%A2+GitHub+Actions)+%F0%9F%A4%96;Zero-JS+Static-First+Engineering+%F0%9F%9A%80" alt="Animated Typing SVG" />
+  </a>
 
-<p align="center">
-  Building high-performance, accessible web architectures and autonomous intelligence systems with <strong>Astro</strong>, <strong>TypeScript</strong>, <strong>Next.js</strong>, and <strong>Python</strong>.
-</p>
+  <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-talha--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://talha-portfolio-gules.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Talha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtlabs1122/)
-[![GitHub](https://img.shields.io/badge/GitHub-MTLab1122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTLab1122)
-[![Email](https://img.shields.io/badge/Email-muhammadtalhapro1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtalhapro1@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Charsadda%2C_Pakistan-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](#-about-me)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-talha--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://talha-portfolio-gules.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Talha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtlabs1122/)
+  [![GitHub](https://img.shields.io/badge/GitHub-MTLab1122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTLab1122)
+  [![Email](https://img.shields.io/badge/Email-muhammadtalhapro1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtalhapro1@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Charsadda%2C_Pakistan-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](#-about-me)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284C7,50:6366F1,100:38BDF8&height=4&section=header" width="100%" />
 
 ## ◈ About Me
 
 - 📍 Based in **Charsadda, Khyber Pakhtunkhwa, Pakistan**.
-- 🎓 Studying **Software Engineering**, combining computer science rigor with modern web and agentic software architecture.
+- 🎓 Studying **Software Engineering**, combining computer science fundamentals with modern web and agentic software architecture.
 - ⚡ **Frontend & Modern Web**: Specializing in static-first, zero-runtime-overhead web systems with **Astro**, component design systems with **Tailwind CSS v4**, and type-safe frontends with **TypeScript** and **Next.js**.
 - 🤖 **Autonomous AI Systems**: Engineering automated intelligence workflows using **Python**, **Gemini API**, and **GitHub Actions** for web crawling, dynamic data synthesis, multi-format reporting, and scheduled dispatches.
 - 🎯 **Community Impact**: Creator of the **KP & Charsadda Daily Scholarship Intelligence Agent**, an autonomous crawler delivering verified regional higher-education funding opportunities daily to local students.
@@ -91,6 +91,14 @@
   <img src="https://streak-stats.demolab.com/?user=MTLab1122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MTLab1122/MTLab1122/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MTLab1122/MTLab1122/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MTLab1122/MTLab1122/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 🚀 Engineering Philosophy & Practices
@@ -111,6 +119,9 @@ I am actively open to discussing software engineering opportunities, autonomous 
 - 📧 **Direct Email**: [muhammadtalhapro1@gmail.com](mailto:muhammadtalhapro1@gmail.com)
 - 🐙 **GitHub Profile**: [@MTLab1122](https://github.com/MTLab1122)
 
+<br />
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0284C7,35:312E81,70:1E1B4B,100:0B0F19&height=120&section=footer" width="100%" alt="Footer Wave" />
   <sub>Engineered with precision by <strong>Muhammad Talha</strong> · Built for performance, clarity, and impact.</sub>
 </div>
