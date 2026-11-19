@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,25:0F172A,50:1E1B4B,75:312E81,100:0284C7&height=240&section=header&text=Muhammad%20Talha&fontSize=46&fontAlignY=36&desc=Software%20Engineer%20%7C%20Enterprise%20SaaS%20%E2%80%A2%20Distributed%20AI%20%E2%80%A2%20Native%20Mobile%20Systems&descAlignY=58&descSize=18" width="100%" alt="Muhammad Talha Header Banner" />
 
   <a href="https://github.com/MTLab1122">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Enterprise+Multi-Tenant+SaaS+%26+Offline+POS+Architect+%E2%9A%A1;Distributed+Neural+AI+Pipelines+(FastAPI+%E2%80%A2+Celery+%E2%80%A2+FFmpeg)+%F0%9F%8E%A7;Native+Android+(Kotlin+%E2%80%A2+Jetpack+Compose)+%26+Flutter+Mobile+%F0%9F%93%B1;Autonomous+AI+Agents+(Python+%E2%80%A2+Gemini+%E2%80%A2+GitHub+Actions)+%F0%9F%A4%96;High-Performance+Web+Architecture+(Astro+%E2%80%A2+Next.js+%E2%80%A2+TypeScript)+%F0%9F%9A%80" alt="Specializations Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=840&lines=Enterprise+Multi-Tenant+SaaS+%26+Offline+POS+Architect+%E2%9A%A1;NASA+Space+Apps+2026+Team+Lead+%E2%80%A2+AgroShift+Earth+Observation+%F0%9F%8C%8D;Distributed+Neural+AI+Pipelines+(FastAPI+%E2%80%A2+Celery+%E2%80%A2+FFmpeg)+%F0%9F%8E%A7;Multilingual+Clinic+SaaS+%26+Scope+OS+(Next.js+15+%E2%80%A2+NestJS+%E2%80%A2+Supabase)+%F0%9F%8F%A5;Native+Android+(Kotlin+%E2%80%A2+Jetpack+Compose)+%26+Flutter+Mobile+%F0%9F%93%B1;Autonomous+AI+Agents+(Python+%E2%80%A2+Gemini+%E2%80%A2+GitHub+Actions)+%F0%9F%A4%96;High-Performance+Web+Architecture+(Astro+%E2%80%A2+Next.js+%E2%80%A2+TypeScript)+%F0%9F%9A%80" alt="Specializations Typing Animation" />
   </a>
 
   <br />
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="#-academic--professional-background">
-    <img src="https://img.shields.io/badge/Location-Charsadda%2C_Pakistan-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Peshawar%2C_Pakistan-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
 
   <br /><br />
@@ -32,11 +32,14 @@
   <a href="#-academic--professional-background">
     <img src="https://img.shields.io/badge/Academic_Excellence-CGPA_3.87_%2F_4.0-blueviolet?style=flat-square&logo=academia&logoColor=white" alt="CGPA" />
   </a>
+  <a href="#-autonomous-ai-climate-intelligence--telemetry">
+    <img src="https://img.shields.io/badge/NASA_Space_Apps_2026-Team_Lead-blue?style=flat-square&logo=nasa&logoColor=white" alt="NASA Space Apps" />
+  </a>
   <a href="#-featured-engineering-showcase">
     <img src="https://img.shields.io/badge/QA_Standard-100%25_Passing_Automated_Tests-success?style=flat-square&logo=checkmarx&logoColor=white" alt="QA Status" />
   </a>
   <a href="https://github.com/MTLab1122?tab=repositories">
-    <img src="https://img.shields.io/badge/Public_Repositories-60%2B_Engineered-informational?style=flat-square&logo=github&logoColor=white" alt="Repos" />
+    <img src="https://img.shields.io/badge/Public_Repositories-68%2B_Engineered-informational?style=flat-square&logo=github&logoColor=white" alt="Repos" />
   </a>
   <a href="#-academic--professional-background">
     <img src="https://img.shields.io/badge/Technical_Pedagogy-DIT_Instructor-orange?style=flat-square&logo=teacher&logoColor=white" alt="Instructor" />
@@ -48,13 +51,13 @@
 
 ## ◈ Executive Overview
 
-I am a **Software Engineer** pursuing my degree at **Abasyn University Peshawar (CGPA 3.87 / 4.0)** and serving as an active **DIT Instructor** at Govt. Technical & Vocational Center. My engineering practice bridges core computer science theory with production-grade commercial software architecture.
+I am a **Software Engineer** pursuing my degree at **Abasyn University Peshawar (CGPA 3.87 / 4.0)**, **Team Lead** for the **NASA Space Apps Challenge 2026** (Team InCir), and an active **DIT Instructor** at Govt. Technical & Vocational Center. My engineering practice unifies rigorous computer science fundamentals with production-grade commercial software architecture.
 
 I architect and deliver resilient digital products across four interconnected technical domains:
-- 🏢 **Enterprise SaaS & Distributed Architecture**: Commercial multi-tenant platforms utilizing **Next.js 14 App Router**, **NestJS**, **FastAPI**, **Celery**, **Redis**, and **PostgreSQL 16**, complete with row-level tenant isolation, rate limiting, and 100% automated test coverage.
-- 📱 **Native Mobile & Offline Distributed Protocols**: High-performance Android applications built with **Kotlin** and **Jetpack Compose (Material 3)** adhering strictly to MVVM + UDF patterns, alongside cross-platform **Flutter & Dart** systems featuring offline SQLite synchronization and direct peer-to-peer **Bluetooth Classic RFCOMM** socket streaming.
-- 🤖 **Autonomous AI & Pipeline Engineering**: Deterministic, self-healing automation pipelines orchestrating **Python**, **Google Gemini GenAI**, **Pydantic**, and **GitHub Actions** for web crawling, dynamic data synthesis, automated vector PDF compilation (**ReportLab**), and scheduled email dispatches.
-- ⚡ **High-Speed, Zero-Overhead Web Architecture**: Modern web platforms with static-first frameworks (**Astro**), component design systems (**Tailwind CSS v4**), and strict type validation (**TypeScript**), verified against perfect **100/100 Core Web Vitals** (LCP < 1.0s, CLS 0.0).
+- 🏢 **Enterprise SaaS & Distributed Architecture**: Commercial multi-tenant platforms built with **Next.js 15/14**, **NestJS 10**, **FastAPI**, **Celery**, **Redis**, and **PostgreSQL 16**, featuring row-level tenant isolation, cryptographic audit trails, and 100% automated test coverage.
+- 🌍 **Climate Intelligence & Satellite Observation Systems**: Earth observation synthesis platforms ingesting live **NASA SMAP L4**, **GPM IMERG**, **MODIS/VIIRS NDVI**, and **POWER Agroclimatology** APIs to model climate resilience and agricultural decision-support.
+- 📱 **Native Mobile & Offline Distributed Protocols**: Production-grade native Android applications built with **Kotlin** and **Jetpack Compose (Material 3)** following strict MVVM + UDF patterns, alongside cross-platform **Flutter & Dart** systems featuring offline SQLite synchronization and direct peer-to-peer **Bluetooth Classic RFCOMM** socket streaming.
+- 🤖 **Autonomous AI & Deterministic Pipelines**: Automated intelligence pipelines orchestrating **Python**, **Google Gemini GenAI SDK**, **Pydantic**, and **GitHub Actions** for web crawling, dynamic data synthesis, automated vector PDF compilation (**ReportLab**), and scheduled dispatches.
 
 ---
 
@@ -63,6 +66,23 @@ I architect and deliver resilient digital products across four interconnected te
 ### 🏢 Enterprise Multi-Tenant SaaS & Distributed Systems
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ SpecForge — Discovery & Scope OS SaaS</h3>
+      <p>AI-assisted discovery, requirements engineering, estimation, and delivery-handover SaaS eliminating agency scope creep with cryptographic client sign-offs.</p>
+      <ul>
+        <li><b>Immutable 11-Stage Pipeline:</b> Extracts structured features, user stories, and acceptance criteria from briefs, linking citations directly to source audio/text with zero hallucinations.</li>
+        <li><b>Defensible P80 Estimation:</b> Mathematical rate-card modeling with automated task generation for Jira, Linear, and GitHub.</li>
+        <li><b>Cryptographic Sign-Offs:</b> Versioned immutable scope freezing with SHA-256 digital seals.</li>
+        <li><b>49 / 49 Master Quality Checks:</b> 100% green launch-readiness matrix and 124 modular architecture tests passing.</li>
+      </ul>
+      <p>
+        <code>Next.js 15.5</code> <code>TypeScript 5.4</code> <code>Prisma 5.22</code> <code>PostgreSQL 16</code> <code>Zod</code> <code>Playwright</code>
+      </p>
+      <p>
+        <a href="https://specforge-tawny.vercel.app"><b>🚀 Live Interactive Demo</b></a> · 
+        <a href="https://github.com/MTLab1122/SpecForge"><b>📂 View Repository</b></a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>🎧 AudioDoc — Commercial PDF-to-Audiobook SaaS</h3>
       <p>Distributed commercial platform converting complex digital & scanned documents into high-fidelity neural audiobooks with studio-grade MP3 assembly.</p>
@@ -76,9 +96,12 @@ I architect and deliver resilient digital products across four interconnected te
         <code>Next.js 14</code> <code>FastAPI</code> <code>Celery</code> <code>Redis</code> <code>PostgreSQL</code> <code>FFmpeg</code> <code>PyMuPDF</code>
       </p>
       <p>
+        <a href="https://pdf-file-conversion-to-audio.vercel.app"><b>🚀 Live Web Demo</b></a> · 
         <a href="https://github.com/MTLab1122/PDF_file_conversion_to_Audio"><b>📂 View Repository</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛒 Enterprise Cash & Carry SaaS & POS Platform</h3>
       <p>Complete multi-tenant retail management platform and offline-first Point-of-Sale ecosystem for wholesale supermarkets and retail chains.</p>
@@ -92,8 +115,95 @@ I architect and deliver resilient digital products across four interconnected te
         <code>Next.js 14</code> <code>NestJS</code> <code>Electron</code> <code>Flutter</code> <code>Prisma</code> <code>SQLite</code> <code>TypeScript</code>
       </p>
       <p>
-        <a href="https://mtlab1122.github.io/Cash-Carry-SaaS-POS-Platform/"><b>🚀 Live Web Demo</b></a> · 
+        <a href="https://cash-carry-saaspos.vercel.app"><b>🚀 Live Web Demo</b></a> · 
         <a href="https://github.com/MTLab1122/Cash-Carry-SaaS-POS-Platform"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 ShifaDesk (MatabAI) — Multilingual Clinic Operations SaaS</h3>
+      <p>Enterprise multilingual clinic management and outpatient operations SaaS integrating AI medical transcription, smart queueing, and multi-tenant EMR.</p>
+      <ul>
+        <li><b>High-Performance Monorepo:</b> Built with Next.js 15 App Router web portal, modular NestJS 10 REST API, Supabase PostgreSQL, and shared Zod contracts.</li>
+        <li><b>Multilingual Patient Workflows:</b> Real-time consultation transcription, appointment booking via WhatsApp, and smart walk-in queue automation (Urdu, English, Pashto, Arabic).</li>
+        <li><b>Clinical EMR-Lite & Billing:</b> Encounters, longitudinal patient health records, multi-tender payment processing, and cash drawer float reconciliation.</li>
+        <li><b>Healthcare Compliance:</b> Row-level tenant isolation, zero-secret commits, and granular role-based access control.</li>
+      </ul>
+      <p>
+        <code>Next.js 15</code> <code>NestJS 10</code> <code>Supabase</code> <code>PostgreSQL 16</code> <code>Prisma</code> <code>Zod</code>
+      </p>
+      <p>
+        <a href="https://shifadesk-mtlab.vercel.app"><b>🚀 Live Web Demo</b></a> · 
+        <a href="https://github.com/MTLab1122/ShifaDesk"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🌍 Autonomous AI, Climate Intelligence & Telemetry
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ AgroShift — NASA Space Apps Challenge 2026</h3>
+      <p>Climate-resilient crop planning and agronomic decision-support platform powered by NASA Earth observations for the Peshawar Valley (Team Lead, Team InCir).</p>
+      <ul>
+        <li><b>4-Engine NASA Observation:</b> Ingests NASA SMAP L4 soil moisture (9 km), NASA GPM IMERG precipitation (10 km), MODIS/VIIRS NDVI canopy greenness, and NASA POWER daily agroclimatology.</li>
+        <li><b>Explainable Scoring Formula:</b> Evaluates 3 crop rotation strategies balancing climate suitability, water efficiency, and biological nitrogen fixation.</li>
+        <li><b>Zero Data Fabrication:</b> Rigorous sentinel fill handling mapping missing satellite observations to explicit nulls with spatial provenance citations.</li>
+        <li><b>74 / 74 Pytest Tests Passed:</b> 100% pass rate covering NASA API clients, recommendation scoring, and report generation.</li>
+      </ul>
+      <p>
+        <code>Next.js 14</code> <code>FastAPI</code> <code>Python 3.11</code> <code>NASA APIs</code> <code>Leaflet</code> <code>Pytest</code>
+      </p>
+      <p>
+        <a href="https://agroshift-nasa-eight.vercel.app"><b>🚀 Live Web Demo</b></a> · 
+        <a href="https://github.com/MTLab1122/AgroShift_NASA"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 KP & Charsadda Scholarship Intelligence Agent</h3>
+      <p>Autonomous daily intelligence agent crawling, verifying, deduplicating, and reporting verified higher-education scholarships for regional students.</p>
+      <ul>
+        <li><b>Three-Tier Trust Engine:</b> Strict source verification separating official <code>.gov</code> / <code>.edu</code> portals from unverified secondary aggregators.</li>
+        <li><b>AI Synthesis & Deduplication:</b> Google Gemini API structured extraction, verbatim source quotes (up to 300 chars), and fuzzy string similarity deduplication (ratio >= 0.88).</li>
+        <li><b>Multi-Format Automated Dispatches:</b> Executes daily at 07:00 PKT via GitHub Actions, compiling interactive HTML dashboards, ReportLab vector PDFs, and automated Resend email delivery.</li>
+      </ul>
+      <p>
+        <code>Python</code> <code>Google Gemini API</code> <code>GitHub Actions</code> <code>ReportLab</code> <code>Pydantic</code>
+      </p>
+      <p>
+        <a href="https://github.com/MTLab1122/student-opportunity-intelligence"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Autonomous Tech Intelligence Briefing Agent</h3>
+      <p>24-hour self-operating market intelligence crawler executing parallel sweeps across frontier AI research, developer tooling, and trending repositories.</p>
+      <ul>
+        <li><b>Multi-Source Ingestion:</b> Parallel scrapers across Hacker News, Hugging Face model registries, and GitHub trending API endpoints.</li>
+        <li><b>Structured LLM Processing:</b> Strict JSON-mode synthesis with Gemini GenAI SDK, fallback heuristic engines, and deterministic schema validation.</li>
+        <li><b>Publication Delivery:</b> Automated compilation into professional multi-page vector PDFs with dynamic tables, dispatched daily to engineering stakeholders.</li>
+      </ul>
+      <p>
+        <code>Python</code> <code>Gemini GenAI</code> <code>ReportLab</code> <code>Task Scheduler</code> <code>Resend API</code>
+      </p>
+      <p>
+        <a href="https://github.com/MTLab1122/autoreport_agent"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Campus Environment Telemetry & Visualization</h3>
+      <p>Full-stack environmental telemetry platform ingesting and visualizing ambient telemetry across 8 university campus zones.</p>
+      <ul>
+        <li><b>Analytical Engine:</b> US EPA Air Quality Index (AQI) piecewise linear interpolation for PM2.5/PM10, ASHRAE thermal comfort indices, and Plotly 5-axis spider radar matrices.</li>
+        <li><b>Automated QA:</b> 27 unit and integration tests passing via pytest covering models, REST API endpoints, and Dash callbacks.</li>
+      </ul>
+      <p>
+        <code>Python</code> <code>Flask</code> <code>Plotly Dash</code> <code>SQLAlchemy</code> <code>Chart.js</code>
+      </p>
+      <p>
+        <a href="https://campus-environment-data-visualizati.vercel.app"><b>🚀 Live Web View</b></a> · 
+        <a href="https://github.com/MTLab1122/Campus_Environment_DataVisualization_System"><b>📂 View Repository</b></a>
       </p>
     </td>
   </tr>
@@ -159,74 +269,8 @@ I architect and deliver resilient digital products across four interconnected te
         <code>Flutter</code> <code>Dart</code> <code>Firebase Firestore</code> <code>React 19</code> <code>Tailwind CSS v4</code>
       </p>
       <p>
+        <a href="https://mukhtar-press.vercel.app"><b>🚀 Live Web Demo</b></a> · 
         <a href="https://github.com/MTLab1122/Mukhtar_Press_Mobile_APP"><b>📂 View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🤖 Autonomous Agentic AI & Telemetry Intelligence
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 KP & Charsadda Scholarship Intelligence Agent</h3>
-      <p>Autonomous daily intelligence agent crawling, verifying, deduplicating, and reporting verified higher-education scholarships for regional students.</p>
-      <ul>
-        <li><b>Three-Tier Trust Engine:</b> Strict source verification separating official <code>.gov</code> / <code>.edu</code> portals from unverified secondary aggregators.</li>
-        <li><b>AI Synthesis & Deduplication:</b> Google Gemini API structured extraction, verbatim source quotes (up to 300 chars), and fuzzy string similarity deduplication (ratio >= 0.88).</li>
-        <li><b>Multi-Format Automated Dispatches:</b> Executes daily at 07:00 PKT via GitHub Actions, compiling interactive HTML dashboards, ReportLab vector PDFs, and automated Resend email delivery.</li>
-      </ul>
-      <p>
-        <code>Python</code> <code>Google Gemini API</code> <code>GitHub Actions</code> <code>ReportLab</code> <code>Pydantic</code>
-      </p>
-      <p>
-        <a href="https://github.com/MTLab1122/student-opportunity-intelligence"><b>📂 View Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Autonomous Tech Intelligence Briefing Agent</h3>
-      <p>24-hour self-operating market intelligence crawler executing parallel sweeps across frontier AI research, developer tooling, and trending repositories.</p>
-      <ul>
-        <li><b>Multi-Source Ingestion:</b> Parallel scrapers across Hacker News, Hugging Face model registries, and GitHub trending API endpoints.</li>
-        <li><b>Structured LLM Processing:</b> Strict JSON-mode synthesis with Gemini GenAI SDK, fallback heuristic engines, and deterministic schema validation.</li>
-        <li><b>Publication Delivery:</b> Automated compilation into professional multi-page vector PDFs with dynamic tables, dispatched daily to engineering stakeholders.</li>
-      </ul>
-      <p>
-        <code>Python</code> <code>Gemini GenAI</code> <code>ReportLab</code> <code>Task Scheduler</code> <code>Resend API</code>
-      </p>
-      <p>
-        <a href="https://github.com/MTLab1122/autoreport_agent"><b>📂 View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Campus Environment Telemetry & Visualization</h3>
-      <p>Full-stack environmental telemetry platform ingesting and visualizing ambient telemetry across 8 university campus zones.</p>
-      <ul>
-        <li><b>Analytical Engine:</b> US EPA Air Quality Index (AQI) piecewise linear interpolation for PM2.5/PM10, ASHRAE thermal comfort indices, and Plotly 5-axis spider radar matrices.</li>
-        <li><b>Automated QA:</b> 27 unit and integration tests passing via pytest covering models, REST API endpoints, and Dash callbacks.</li>
-      </ul>
-      <p>
-        <code>Python</code> <code>Flask</code> <code>Plotly Dash</code> <code>SQLAlchemy</code> <code>Chart.js</code>
-      </p>
-      <p>
-        <a href="https://mtlab1122.github.io/Campus_Environment_DataVisualization_System/"><b>🚀 Live Web View</b></a> · 
-        <a href="https://github.com/MTLab1122/Campus_Environment_DataVisualization_System"><b>📂 View Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ University LMS & SRS Platform</h3>
-      <p>Full-stack educational management platform with conflict-aware timetable algorithms, prerequisite validation, and complete IEEE-style SRS documentation.</p>
-      <ul>
-        <li><b>Deterministic Scheduling:</b> Conflict detection engine eliminating room and professor double-bookings across departmental timetables.</li>
-        <li><b>Academic Modules:</b> Dynamic credit hour billing, student registration, online quiz engines, and assignment workflows.</li>
-      </ul>
-      <p>
-        <code>Node.js</code> <code>Express.js</code> <code>JavaScript</code> <code>SRS Architecture</code>
-      </p>
-      <p>
-        <a href="https://github.com/MTLab1122/Software_Requirement_Engineering_Project"><b>📂 View Repository</b></a>
       </p>
     </td>
   </tr>
@@ -261,8 +305,56 @@ I architect and deliver resilient digital products across four interconnected te
         <code>Next.js 14</code> <code>TypeScript</code> <code>React Hooks</code> <code>Tailwind CSS</code>
       </p>
       <p>
-        <a href="https://mtlab1122.github.io/Pac_Man/"><b>🚀 Play Online</b></a> · 
+        <a href="https://pacman-arcade-brown.vercel.app"><b>🚀 Play Online</b></a> · 
         <a href="https://github.com/MTLab1122/Pac_Man"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 AutoX Accessories — Modern E-Commerce Platform</h3>
+      <p>Modern responsive automotive accessories online storefront built with React 18, Vite, and Tailwind CSS with real-time cart state management and category filters.</p>
+      <p>
+        <code>Vite</code> <code>React 18</code> <code>Tailwind CSS</code> <code>Lucide Icons</code>
+      </p>
+      <p>
+        <a href="https://autox-accessories.vercel.app"><b>🚀 Live Web Store</b></a> · 
+        <a href="https://github.com/MTLab1122/Online_Car_Accessories_Shop_Website"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 AuraNav — Interactive Campus & Transit Navigation</h3>
+      <p>Zero-JS static navigation portal built with Astro and Tailwind CSS v4 featuring responsive direction routing, interactive floorplans, and accessible SVG waypoints.</p>
+      <p>
+        <code>Astro</code> <code>Tailwind CSS v4</code> <code>TypeScript</code> <code>WCAG 2.2 AA</code>
+      </p>
+      <p>
+        <a href="https://auranav-navigation.vercel.app"><b>🚀 Live Interactive App</b></a> · 
+        <a href="https://github.com/MTLab1122/aptura_week1_task1"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 Converter Hub — Multi-Unit & Currency Suite</h3>
+      <p>High-performance client-side utility suite performing instantaneous multi-unit conversions across length, weight, temperature, and currency with zero server latency.</p>
+      <p>
+        <code>HTML5</code> <code>CSS3 Grid/Flexbox</code> <code>Vanilla JavaScript</code>
+      </p>
+      <p>
+        <a href="https://converter-hub-smoky.vercel.app"><b>🚀 Live Web App</b></a> · 
+        <a href="https://github.com/MTLab1122/Converter-Hub"><b>📂 View Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Software Requirements Specification (SRS) Suite</h3>
+      <p>Interactive web documentation viewer presenting full IEEE 830-compliant Software Requirement Specifications with structured UML diagrams and traceability matrices.</p>
+      <p>
+        <code>HTML5</code> <code>CSS3</code> <code>IEEE 830 Standard</code> <code>UML</code>
+      </p>
+      <p>
+        <a href="https://srs-documents.vercel.app"><b>🚀 Live Documentation</b></a> · 
+        <a href="https://github.com/MTLab1122/SRS_Documents"><b>📂 View Repository</b></a>
       </p>
     </td>
   </tr>
@@ -286,14 +378,15 @@ I architect and deliver resilient digital products across four interconnected te
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🏢 Full-Stack & Distributed Backend
-![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js 15/14](https://img.shields.io/badge/Next.js_15%2F14-000000?style=flat-square&logo=next.js&logoColor=white)
+![NestJS 10](https://img.shields.io/badge/NestJS_10-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
@@ -306,8 +399,9 @@ I architect and deliver resilient digital products across four interconnected te
 ![Material Design 3](https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
-### 🤖 Agentic AI, Document & Media Processing
+### 🤖 Agentic AI, Climate & Document Processing
 ![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
+![NASA Earth Observations](https://img.shields.io/badge/NASA_Earth_Observations-0B3D91?style=flat-square&logo=nasa&logoColor=white)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-FF6F00?style=flat-square&logo=python&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-5C6BC0?style=flat-square&logo=tesseract&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
@@ -348,8 +442,9 @@ flowchart LR
 ```
 
 - **Deterministic Offline-First Resilience**: Critical enterprise services must operate irrespective of network state. I implement durable local mutation queues, SQLite persistence, and idempotent background sync with exponential backoff and jitter.
-- **Zero-Defect Quality Assurance**: Software is only as reliable as its automated verification suite. My flagship projects achieve 100% test pass rates across unit, integration, browser E2E (Playwright), and security tests (87/87 tests in AudioDoc; 169/169 assertions in Cash & Carry POS).
-- **Strict Type Safety & Cryptographic Integrity**: Eliminating runtime defects through strict-mode TypeScript contracts, Kotlin type systems, Pydantic runtime models, and immutable SHA-256 cryptographic audit hash-chains for financial ledgers.
+- **Zero-Defect Quality Assurance**: Software is only as reliable as its automated verification suite. My flagship projects achieve 100% test pass rates across unit, integration, browser E2E (Playwright), and security tests (87/87 tests in AudioDoc; 169/169 assertions in Cash & Carry POS; 49/49 checks in SpecForge; 74/74 tests in AgroShift).
+- **Strict Type Safety & Cryptographic Integrity**: Eliminating runtime defects through strict-mode TypeScript contracts, Kotlin type systems, Pydantic runtime models, and immutable SHA-256 cryptographic audit hash-chains for financial ledgers and scope approval contracts.
+- **Scientific Honesty & Zero Data Fabrication**: Data systems strictly map missing observations to explicit nulls and disclaim uncertainty rather than synthesising artificial statistics.
 - **Zero-Overhead Web Performance**: Rejecting client-side JavaScript bloat by defaulting to static-first architectures (Astro), server components, and native CSS tokens, targeting 100/100 Core Web Vitals.
 - **Accessible, Human-Centered UX**: Engineering WCAG 2.2 AA compliant interfaces with visible keyboard focus rings, group-aria states, zero layout shift, and smooth cross-device accessibility.
 
@@ -360,6 +455,7 @@ flowchart LR
 | Focus Area | Institution / Organization | Scope & Achievements |
 | :--- | :--- | :--- |
 | **B.S. Software Engineering** | **Abasyn University, Peshawar** | **CGPA 3.87 / 4.0** (2023–2027). Advanced coursework in Data Structures & Algorithms, Distributed Systems, Software Requirement Engineering (SRS), and Database Design. |
+| **NASA Space Apps Challenge 2026** | **NASA Space Apps & Abasyn University** | **Team Lead (Team InCir)**. Leading a 5-member multidisciplinary engineering team building AgroShift, synthesizing 4 NASA Earth-observation systems for climate-resilient agriculture. |
 | **Technical Pedagogy & Instruction** | **Govt. Technical & Vocational Center, Umarzai** | **DIT Instructor (Ongoing)**. Mentoring vocational students in programming fundamentals, algorithm design, computing essentials, and practical software assignments. |
 | **Commercial Print & Visual Systems** | **Mukhtar Printing Press** | **Computer Operator / Graphic Designer (3 Years)**. Production design, typography typesetting, and prepress vector engineering using Corel Draw, Photoshop, and InPage. |
 | **Advanced Computing Fellowship** | **Presidential Initiative for AI & Computing (PIAIC)** | Specialized training in modern Next.js App Router, TypeScript strict typing, Tailwind CSS, and applied AI systems. |
